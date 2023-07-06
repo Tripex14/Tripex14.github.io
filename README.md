@@ -43,6 +43,15 @@
   
 <ol class>
 
+ <li class="scripts">
+    
+    <img src="pics/MURDER MYSTER 2.png" width="250" height="150"/>
+      <h></h>
+      <h1>*NEW* Murder Mystery 2 OP Script (PASTEBIN)</h1>
+      <button onclick="redirectToWebsite('https://workink.net/1Qct/ljr3ejx9')">GO TO SCRIPT</button>
+    
+  </li>
+
   <li class="scripts">
     
     <img src="pics/MURDER MYSTER 2.png" width="250" height="150"/>
