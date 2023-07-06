@@ -9,7 +9,7 @@
   <header>
     
     <div class="logo">
-      <img src="pics/png.png">
+      <img src="pics/Png.png">
     </div>
     
     <h1 class="title">Tripex Scripts</h1>
