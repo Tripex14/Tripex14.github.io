@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="icon" href="pics/Png.ico" type="image/x-icon">
+  <link rel="icon" href="pics/Png.ico">
   <title>Tripex Scripts</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
