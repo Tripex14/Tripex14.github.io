@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <link rel="icon" href="pics/Png.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="pics/Png.ico" type="image/x-icon">
   <title>Tripex Scripts</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  <link rel="icon" href="pics/Png.ico" type="image/x-icon">
 </head>
 <body>
   
