@@ -17,7 +17,7 @@
     <input id="searchbar" onkeyup="search_animal()" type="text"
         name="search" placeholder="Search Scripts">
         <div class="yt">
-          <a href=”https://www.youtube.com/channel/UCoj23984IjKNf2Jqj7SQRcQ”><img src ="https://www.iconpacks.net/icons/1/free-youtube-icon-123-thumb.png"> </a>
+          <a href=”https://www.youtube.com/@tripex__/videos”><img src ="https://www.iconpacks.net/icons/1/free-youtube-icon-123-thumb.png"> </a>
         </div>
   </header>
   
@@ -43,14 +43,15 @@
   
 <ol class>
 
- <li class="scripts">
+  <li class="scripts">
     
-    <img src="pics/MURDER MYSTER 2.png" width="250" height="150"/>
+    <img src="pics/ROGUE DEMON.png" width="250" height="150"/>
       <h></h>
-      <h1>*NEW* Murder Mystery 2 OP Script (PASTEBIN)</h1>
-      <button onclick="redirectToWebsite('https://workink.net/1Qct/ljr3ejx9')">GO TO SCRIPT</button>
+      <h1>*NEW* Rogue Demon OP Script (2023) PASTEBIN</h1>
+      <button onclick="redirectToWebsite('https://workink.net/1Qct/ljt3k4ph')">GO TO SCRIPT</button>
     
   </li>
+
 
   <li class="scripts">
     
