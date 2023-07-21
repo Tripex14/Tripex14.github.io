@@ -71,68 +71,6 @@ input[type="text"] {
   }
   
 
-/* .a6{
-    position: absolute;
-    top: 35%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-}
-.a5{
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-    
-}
-.a4{
-    position: absolute;
-    top: 35%;
-    left: 75%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-}
-.a3{
-    position: absolute;
-    top: 75%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-}
-.a2{
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-}
-.a1{
-    position: absolute;
-    top: 75%;
-    left: 75%;
-    transform: translate(-50%, -50%);
-    border: 4px solid black;
-    text-align:center;
-    background-color: #1f1f1f; 
-    width: 20%;
-} */
-
 body {
   margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
